@@ -18,4 +18,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Documentation
 
+- [Developer Docs](https://docs.nativescript.org/) - NativeScript Documentation.
+- [API Reference](https://docs.nativescript.org/api-reference/globals.html) - NativeScript API.
+- [Roadmap](https://www.nativescript.org/roadmap) - NativeScript Project Roadmap.
+
 #### Community
+
+- [Request Slack Invite](http://developer.telerik.com/wp-login.php?action=slack-invitation)
+- [NativeScript StackOverflow](http://stackoverflow.com/questions/tagged/nativescript)
+- [NativeScript Blog](https://www.nativescript.org/blog)
+- [Upcoming Events](https://www.nativescript.org/events)
+- [Newsletter](https://www.nativescript.org/nativescript-newsletter)
