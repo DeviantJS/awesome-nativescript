@@ -16,7 +16,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
    - [Interface](#interface)
      - [Visual Components](#visual-components)
      - [Utility Plugins](#utility-plugins)
-   - [Processing](#integrations)
+   - [Integrations](#integrations)
+     - [Mapping](#mapping)
+     - [Data](#data)
+     - [Ads](#advertising)
    - [Development](#dev)
  - [Development Tools](#development-tools)
 
@@ -90,6 +93,25 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - Maintainer: `Brian Thurlow`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/bthurlow) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/ThurlowBrian) 
  
 #### Integrations
+
+##### Mapping
+
+- [Google Maps SDK](https://github.com/dapriett/nativescript-google-maps-sdk) - A cross-platform (iOS & Android) Nativescript plugin for the Google Maps API.
+ - Maintainer: `dapriett`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/dapriett) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/dapriett) 
+- [Mapbox](https://github.com/EddyVerbruggen/nativescript-mapbox) - Native OpenGL powered Maps, by Mapbox.
+ - Maintainer: `Eddie Verbruggen`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/EddyVerbruggen) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/eddyverbruggen) 
+
+##### Data
+
+- [Firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - NativeScript Firebase plugin.
+ - Maintainer: `Eddie Verbruggen`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/EddyVerbruggen) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/eddyverbruggen) 
+
+##### Advertising
+
+- [Google Mobile Ads SDK](https://github.com/nikolay-diyanov/nativescript-google-mobile-ads-sdk) - Google Mobile Ads SDK for iOS and Android.
+ - Maintainer: `Nikolay Diyanov`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/nikolay-diyanov) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/n_diyanov)
+- [Google AdMob](https://github.com/EddyVerbruggen/nativescript-admob) - NativeScript plugin to earn some precious 💰💰 with ads by Google AdMob.
+ - Maintainer: `Eddie Verbruggen`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/EddyVerbruggen) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/eddyverbruggen) 
 
 #### Dev
 
