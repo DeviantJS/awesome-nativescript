@@ -10,14 +10,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Table of Contents
  - [Resources](#resources)
-  - [Documentation](#documentation)
-  - [Community](#community)
+   - [Documentation](#documentation)
+   - [Community](#community)
  - [Plugins](#plugins)
-  - [Interface](#interface)
-   - [Visual Components](#visual-components)
-   - [Utility Plugins](#utility-plugins)
-  - [Processing](#integrations)
-  - [Development](#dev)
+   - [Interface](#interface)
+     - [Visual Components](#visual-components)
+     - [Utility Plugins](#utility-plugins)
+   - [Processing](#integrations)
+   - [Development](#dev)
  - [Development Tools](#development-tools)
 
 <br>
