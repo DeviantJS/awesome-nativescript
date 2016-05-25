@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
      - [Visual Components](#visual-components)
      - [Utility Plugins](#utility-plugins)
    - [Integrations](#integration-plugins)
+     - [Angular2](#angular2)
      - [Mapping](#mapping)
      - [Data](#data)
      - [Authentication](#authentication)
@@ -54,8 +55,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - Maintainer: `Brad Martin`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/bradmartin) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/BradWayneMartin) 
 - [Snackbar](https://github.com/bradmartin/nativescript-snackbar) - NativeScript plugin to provide the ability to play local and remote videos.
  - Maintainer: `Brad Martin`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/bradmartin) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/BradWayneMartin) 
-- [Paralax](https://github.com/TheOriginalJosh/nativescript-parallax) - NativeScript Parallax View Plugin for Android & iOS.
- - Maintainer: `Josh Sommer`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/TheOriginalJosh) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/_JoshSommer) 
 - [Video Player](https://github.com/bradmartin/nativescript-videoplayer) - NativeScript plugin to provide a Material Design CardView component.
  - Maintainer: `Brad Martin`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/bradmartin) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/BradWayneMartin) 
 - [Material Loading Indicator](https://github.com/nikolay-diyanov/nativescript-material-loading-indicator) - NativeScript Material design activity indicator for iOS.
@@ -104,8 +103,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - Maintainer: `NativeScript Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/NativeScript) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/nativescript) 
 - [Touch ID](https://github.com/EddyVerbruggen/nativescript-touchid) - Use the iOS fingerprint scanner in your {N} app. _iOS Only_
  - Maintainer: `Eddie Verbruggen`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/EddyVerbruggen) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/eddyverbruggen) 
-- [Font Icons](https://github.com/NathanWalker/nativescript-fonticon) - A simpler way to use font icons with NativeScript.
- - Maintainer: `Nathan Walker`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/NathanWalker) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/wwwalkerrun) 
 - [Facebook Rebound](https://github.com/BradMartin/nativescript-facebookrebound) - NativeScript plugin to provide access to Facebook's Spring Animations. _Android Only_
  - Maintainer: `Brad Martin`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/bradmartin) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/BradWayneMartin) 
 - [DOM Emulation](https://github.com/BradMartin/nativescript-facebookrebound) - A class of DOM based NativeScript functions.
@@ -125,6 +122,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 
 #### Integration Plugins
+
+##### Angular2
+
+- [Angular2](https://github.com/NativeScript/nativescript-angular) - NativeScript integration for Angular2.
+ - Maintainer: `NativeScript Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/NativeScript) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/nativescript) 
+- [Font Icons](https://github.com/NathanWalker/nativescript-fonticon) - A simpler way to use font icons with NativeScript + Angular2..
+ - Maintainer: `Nathan Walker`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/NathanWalker) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/wwwalkerrun) 
+- [NG2 Magic](https://github.com/NathanWalker/nativescript-ng2-magic) - Magically turn your Angular2 web app into a NativeScript app.
+ - Maintainer: `Nathan Walker`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/NathanWalker) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/wwwalkerrun) 
+- [NG2 Paralax](https://github.com/TheOriginalJosh/nativescript-ng2-parallax) - NativeScript Angular2 parallax view component.
+ - Maintainer: `Josh Sommer`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/TheOriginalJosh) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/_JoshSommer) 
+- [NG2 Translate](https://github.com/NathanWalker/nativescript-ng2-translate) - Use ng2-translate with NativeScript + Angular2.
+ - Maintainer: `Nathan Walker`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/NathanWalker) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/wwwalkerrun) 
+- [Font Icons](https://github.com/NathanWalker/nativescript-fonticon) - A simpler way to use font icons with NativeScript.
+ - Maintainer: `Alexander Vakrilov`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/vakrilov) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/ufsa) 
 
 ##### Mapping
 
