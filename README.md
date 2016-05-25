@@ -199,3 +199,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 > <h3>Development Tools</h3>
 
 #### IDE
+
+- [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript) - Telerik NativeScript extension for Visual Studio Code.
+- [NativeScript Atom Snippets](https://github.com/NathanWalker/nativescript-atom-snippets) - Snippets for all NativeScript UI components and some frequently used attributes..
+- [NG2 NativeScript Atom Snippets](https://github.com/NathanWalker/nativescript-ng2-atom-snippets) - Snippets for all NativeScript UI components and some frequently used attributes specifically for use with nativescript-angular.
