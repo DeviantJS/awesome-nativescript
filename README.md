@@ -27,8 +27,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - [Development Tools](#development-tools)
    - [IDE](#ide)
 
-**[Back to top](#table-of-contents)**
-
 <br>
 > <h3>NativeScript Ecosystem</h3>
 
