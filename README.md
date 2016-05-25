@@ -30,7 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
    - [Articles](#articles)
    - [Talks](#talks)
    - [Tutorials](#tutorials)
-   - [NativeScript Team Examples](#nativescript-examples)
+   - [NativeScript Team Examples](#nativescript-team-examples)
    - [Community Examples](#community-examples)
 
 <br>
@@ -277,7 +277,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 **[Back to top](#table-of-contents)**
 
-#### NativeScript Examples
+#### NativeScript Team Examples
+
+- [Marketplace](https://github.com/thejsj/rethinkdb-chat) - NativeScript kitchen sink demo.
+- [Xpensity](https://github.com/nativescript/sample-Xpensity) - Xpensity is a real life enterprise line of business application.
+- [Groceries](https://github.com/nativescript/sample-groceries) - Groceries is a NativeScript-built iOS and Android app for managing grocery lists.
+- [Tasks](https://github.com/nativescript/sample-tasks) - Open source cross-platform Tasks app built with NativeScript.
+- [TelerikNEXT](https://github.com/nativescript/sample-teleriknext) - Open source cross-platform TelerikNEXT conference app built with NativeScript.
 
 #### Community Examples
 
