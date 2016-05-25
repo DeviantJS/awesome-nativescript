@@ -51,8 +51,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Upcoming Events](https://www.nativescript.org/events)
 - [Newsletter](https://www.nativescript.org/nativescript-newsletter)
 
-**[Back to top](#table-of-contents)**
-
 <br>
 > <h3>Plugins</h3>
 
@@ -99,6 +97,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Toast](https://github.com/TobiasHennig/nativescript-toast) - A NativeScript Toast Plugin for Android and iOS apps.
  - Maintainer: `Tobias Hennig`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/TobiasHennig) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/HennigTobias) 
 
+**[Back to top](#table-of-contents)**
 
 ##### Utility Plugins
 
@@ -129,6 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Image Cache It](https://github.com/triniwiz/nativescript-image-cache-it) - Image caching plugin for nativescript.
  - Maintainer: `Osei Fortune`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/triniwiz) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/triniwiz) 
 
+**[Back to top](#table-of-contents)**
 
 #### Integration Plugins
 
@@ -275,6 +275,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Nic Raboy | 24-Dec-15](https://www.youtube.com/watch?v=LoVBXr38hI0) - Using The Device Camera In Your NativeScript Mobile App.
 - [Nic Raboy | 16-Dec-15](https://www.youtube.com/watch?v=gypHoAHIhCk) - Saving Data In Your NativeScript Mobile Application.
 
+**[Back to top](#table-of-contents)**
 
 #### NativeScript Examples
 
