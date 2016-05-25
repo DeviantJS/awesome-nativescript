@@ -32,6 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
    - [Tutorials](#tutorials)
    - [NativeScript Team Examples](#nativescript-team-examples)
    - [Community Examples](#community-examples)
+   - [Project Boilerplates](#project-boilerplates)
 
 <br>
 > <h3>NativeScript Ecosystem</h3>
@@ -284,8 +285,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Groceries](https://github.com/nativescript/sample-groceries) - Groceries is a NativeScript-built iOS and Android app for managing grocery lists.
 - [Tasks](https://github.com/nativescript/sample-tasks) - Open source cross-platform Tasks app built with NativeScript.
 - [TelerikNEXT](https://github.com/nativescript/sample-teleriknext) - Open source cross-platform TelerikNEXT conference app built with NativeScript.
+- [Todo MVC](https://github.com/NativeScript/sample-ng-todomvc) - NativeScript + AngularJS TodoMVC example.
 
 #### Community Examples
+
+- [Sqlite Example](https://github.com/NathanaelA/nativescript-sqlite-example) - Simple Example using SQLite in NativeScript.
+- [RSS Reader](https://github.com/vdbcyril/NSrssReader-example) - Example of RSS Reader using NativeScript.
+- [Toast Example](https://github.com/TobiasHennig/nativescript-toast-example) - An example application for the NativeScript Toast Plugin.
+- [LokiJS Example](https://github.com/TobiasHennig/loki-nativescript-adapter-example) - An example application for the Loki NativeScript adapter.
+- [TabView Example](https://github.com/lazaromenezes/nativescript-tabview-example) - Short example of using NativeScript TabView.
+- [Animated Sidebar Menu](https://github.com/emiloberg/nativescript-animated-sidebar-menu-example) - Create an animated sidebar menu without any external dependencies.
+
+#### Project Boilerplates
+
+- [Angular2 Seed Advanced](https://github.com/NathanWalker/angular2-seed-advanced) - Angular2 + NativeScript with all the bells and whistles.
 
 **[Back to top](#table-of-contents)**
 
