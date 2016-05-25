@@ -190,7 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - Maintainer: `NativeScript Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/NativeScript) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/nativescript) 
 - [xmlxsd](https://github.com/NativeScript/nativescript-dev-xmlxsd) - XML validation against XSD schema for NativeScript projects.
  - Maintainer: `NativeScript Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/NativeScript) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/nativescript) 
-- [Emulator Reload](https://github.com/emiloberg/nativescript-emulator-reload) - Small gulp script will monitor the source files of a NativeScript project and when a file is changed it'll rebuild and reload the emulator.
+- [Emulator Reload](https://github.com/emiloberg/nativescript-emulator-reload) - Small gulp script will monitor the files of a NativeScript project and rebuild and reload the emulator.
  - Maintainer: `Emil Öberg`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/emiloberg) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/EmilOberg) 
 - [Hooks](https://github.com/NativeScript/nativescript-hook) - Gives you an easier way to install hooks into NativeScript projects.
  - Maintainer: `NativeScript Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/NativeScript) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/nativescript) 
@@ -212,7 +212,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 - [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript) - Telerik NativeScript extension for Visual Studio Code.
 - [NativeScript Atom Snippets](https://github.com/NathanWalker/nativescript-atom-snippets) - Snippets for all NativeScript UI components and some frequently used attributes..
-- [NG2 NativeScript Atom Snippets](https://github.com/NathanWalker/nativescript-ng2-atom-snippets) - Snippets for all NativeScript UI components and some frequently used attributes specifically for use with nativescript-angular.
+- [NG2 NativeScript Atom Snippets](https://github.com/NathanWalker/nativescript-ng2-atom-snippets) - Snippets for all NativeScript UI components for use with nativescript-angular.
 - [NativeScript VSCode Snippets](https://github.com/NathanWalker/nativescript-ng2-atom-snippets) - NativeScript XML Snippets for Visual Studio Code.
 - [NativeScript Sublime Snippets](https://github.com/NathanWalker/nativescript-ng2-atom-snippets) - Sublime {N}ativeScript Snippets.
 
