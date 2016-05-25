@@ -4,7 +4,7 @@
 </h3>
 ## Awesome {N} [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome RethinkDB resources, libraries, tools and applications
+> A curated list of awesome {N} resources, libraries, tools and applications
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
@@ -280,7 +280,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### NativeScript Team Examples
 
-- [Marketplace](https://github.com/thejsj/rethinkdb-chat) - NativeScript kitchen sink demo.
+- [Marketplace](https://github.com/NativeScript/nativescript-marketplace-demo) - NativeScript kitchen sink demo.
 - [Xpensity](https://github.com/nativescript/sample-Xpensity) - Xpensity is a real life enterprise line of business application.
 - [Groceries](https://github.com/nativescript/sample-groceries) - Groceries is a NativeScript-built iOS and Android app for managing grocery lists.
 - [Tasks](https://github.com/nativescript/sample-tasks) - Open source cross-platform Tasks app built with NativeScript.
