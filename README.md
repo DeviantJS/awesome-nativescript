@@ -33,6 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
    - [NativeScript Team Examples](#nativescript-team-examples)
    - [Community Examples](#community-examples)
    - [Project Boilerplates](#project-boilerplates)
+   - [Books](#books)
 
 <br>
 > <h3>NativeScript Ecosystem</h3>
@@ -238,6 +239,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Talks
 
+- [Mike Branstein at Music City Code | 19-Aug-16](https://github.com/mikebranstein/nativescript-quick-apps-mcc-code) - 6 Minute Apps: A Race Against Time.
 - [TJ VanToll at Summer of NativeScript | 08-Jul-16](https://www.youtube.com/watch?v=QzhhCGwO4f8&list=PLtuCR_3WY8D-MPKHvjMtEGGpaiX72XHk2) - Summer of NativeScript—Beyond the Basics.
 - [Julian Steiner at ngBigParty II | 30-Mar-16](https://www.youtube.com/watch?v=dVKNC1fcuG8) - Building mobile apps with Angular 2 and NativeScript.
 - [TJ VanToll and Jen Looper at Angular Air #56 | 01-Mar-16](https://www.youtube.com/watch?v=bigvNkVdEIU&index=2&list=PLeUKuUUYwJtqCnxDyVjdIHBHDUOksmUSe) - Is NativeScript the holy grail for mobile development?
@@ -252,6 +254,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Tutorials
 
+- [Mike Branstein | 18-Aug-16](https://mikebranstein.github.io/nativescript-workshop-instructions/) - 8-chapter NativeScript workshop.
 - [Bradley Gore | 23-May-16](https://www.youtube.com/watch?v=7go3L70QfIQ) - Getting Cozy with NativeScript TabView.
 - [Bradley Gore | 23-May-16](https://www.youtube.com/watch?v=vW1KUU_Z21E) - NativeScript Repeater with Swipe-to-Reveal Actions.
 - [Nathan Walker | 11-May-16](https://www.youtube.com/watch?v=T2wAb6UX8zo) - Adding {N} to the Angular2 CLI with NaticeScript Magic.
@@ -299,6 +302,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### Project Boilerplates
 
 - [Angular2 Seed Advanced](https://github.com/NathanWalker/angular2-seed-advanced) - Angular2 + NativeScript with all the bells and whistles.
+
+#### Books
+
+- [NativeScript in Action](https://www.manning.com/books/nativescript-in-action) - Learn how to write truly native apps with NativeScript in Action from Manning Press.
 
 **[Back to top](#table-of-contents)**
 
