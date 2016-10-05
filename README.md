@@ -129,6 +129,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - Maintainer: `NativeScript Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/NativeScript) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/nativescript) 
 - [Image Cache It](https://github.com/triniwiz/nativescript-image-cache-it) - Image caching plugin for nativescript.
  - Maintainer: `Osei Fortune`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/triniwiz) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/triniwiz) 
+- [WebView Crypto](https://github.com/saulshanabrook/nativescript-webview-crypto) - Web Cryptography API using a hidden WebView.
+ - Maintainer: `Saul Shanabrook`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/saulshanabrook) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/saulshanabrook) 
+ 
 
 **[Back to top](#table-of-contents)**
 
