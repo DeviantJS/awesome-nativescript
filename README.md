@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - [Resources](#resources)
    - [Official](#official)
    - [Community](#community)
+     - [Bloggers](#bloggers)
  - [Plugins](#plugins)
    - [Interface](#interface)
      - [Visual Components](#visual-components)
@@ -56,6 +57,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [NativeScript Infowrap](http://www.infowrap.com/nativescript/overview?collaborate=16da0720-70ad-4183-8ec9-de034f1644e5&token=c1b8db1a-b70c-4afb-8950-f7c21f40327d)
 - [NativeScript Snacks](http://www.nativescriptsnacks.com/) - Bite-sized videos and code snippets for learning purposes.
 - [NativeScript Rocks](http://nativescript.rocks/) - Website containing many community resources maintained by Nathanael Anderson.
+
+##### Bloggers
+
+- [List Main NativeScript Bloggers](https://www.nativescript.org/resources#nativescript-bloggers)
+- [TJ VanToll](https://www.tjvantoll.com/blog/)
+- [Peter Messenger](http://stonecourier.blogspot.be/)
+- [Ben Elliott](https://therankamateur.co.uk/)
 
 <br>
 > <h3>Plugins</h3>
