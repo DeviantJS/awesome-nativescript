@@ -239,6 +239,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Hristo Borisov | 12-Jun-15](http://developer.telerik.com/products/offline-support-for-hybrid-web-and-nativescript-apps/) - Offline Support for Hybrid, Web and NativeScript Apps.
 - [Kamen Velikov | 19-May-15](https://www.nativescript.org/blog/how-to-enable-healthkit-in-your-nativescript-application/) - Enable HealthKit in your NativeScript application.
 - [TJ VanToll | 23-Mar-15](http://developer.telerik.com/featured/building-your-own-nativescript-modules-for-npm/) - Building Your Own NativeScript Modules for npm.
+- [Mihail Slavchev | 12-Jun-14](http://developer.telerik.com/featured/nativescript-android/) - Internals of the NativeScript Android runtime explained.
+- [TJ VanToll | 16-Feb-15](http://developer.telerik.com/featured/nativescript-works/) - TJ VanToll explains how NativeScript works.
+- [TJ VanToll | 22-May-15](https://www.tjvantoll.com/2015/05/22/linting-javascript-in-nativescript-apps/) - Linting JavaScript in NativeScript Apps.
 
 #### Talks
 
