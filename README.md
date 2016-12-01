@@ -10,7 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Table of Contents
  - [Resources](#resources)
-   - [Documentation](#documentation)
+   - [Official](#official)
    - [Community](#community)
  - [Plugins](#plugins)
    - [Interface](#interface)
@@ -38,20 +38,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 <br>
 > <h3>NativeScript Ecosystem</h3>
 
-#### Documentation
+#### Official
 
 - [Developer Docs](https://docs.nativescript.org/) - NativeScript Documentation.
 - [API Reference](https://docs.nativescript.org/api-reference/globals.html) - NativeScript API.
 - [Roadmap](https://www.nativescript.org/roadmap) - NativeScript Project Roadmap.
+- [Newsletter](https://www.nativescript.org/nativescript-newsletter)
+- [NativeScript Blog](https://www.nativescript.org/blog)
+- [Upcoming Events](https://www.nativescript.org/events)
+- [FAQ](https://www.nativescript.org/faq) - Frequently asked questions about NativeScript.
+- [Telerik Developer Digest](http://digest.telerik.com/) - Software development articles from the Telerik Developer Network.
 
 #### Community
 
 - [Request Slack Invite](http://developer.telerik.com/wp-login.php?action=slack-invitation)
 - [NativeScript StackOverflow](http://stackoverflow.com/questions/tagged/nativescript)
 - [NativeScript Infowrap](http://www.infowrap.com/nativescript/overview?collaborate=16da0720-70ad-4183-8ec9-de034f1644e5&token=c1b8db1a-b70c-4afb-8950-f7c21f40327d)
-- [NativeScript Blog](https://www.nativescript.org/blog)
-- [Upcoming Events](https://www.nativescript.org/events)
-- [Newsletter](https://www.nativescript.org/nativescript-newsletter)
+- [NativeScript Snacks](http://www.nativescriptsnacks.com/) - Bite-sized videos and code snippets for learning purposes.
+- [NativeScript Rocks](http://nativescript.rocks/) - Website containing many community resources maintained by Nathanael Anderson.
 
 <br>
 > <h3>Plugins</h3>
