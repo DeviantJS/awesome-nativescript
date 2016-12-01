@@ -254,6 +254,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Martin Keiblinger at ViennaJS | 14-Apr-16](https://www.youtube.com/watch?v=SnxLpT5tQig) - NativeScript to build native Apps with JavaScript.
 - [TJ VanToll and Jen Looper at NativeScript Jax | 14-Apr-16](https://www.youtube.com/watch?v=Y2F5cHQuaIc) - Sharing Code Between Web and Native Apps.
 - [Sebastian Witalec at Angular Connect | 21-Oct-15](https://www.youtube.com/watch?v=4SbiiyRSIwo&list=PLAnub1yHrv1BlPPCPEq9bcPpguMWS3POA) - Building native mobile apps with Angular 2 0 and NativeScript​.
+- [Alex Vakrilov at NaticeScript Developer Day 2016 | 11-Okt-16](https://youtu.be/jH5I8ZPzXWE?list=PLiKWVuUOQtPY4XpvBSu41tobgm3YR99-r) - Using Redux For Building Applications With NativeScript Angular.
 
 #### Tutorials
 
@@ -301,6 +302,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [LokiJS Example](https://github.com/TobiasHennig/loki-nativescript-adapter-example) - An example application for the Loki NativeScript adapter.
 - [TabView Example](https://github.com/lazaromenezes/nativescript-tabview-example) - Short example of using NativeScript TabView.
 - [Animated Sidebar Menu](https://github.com/emiloberg/nativescript-animated-sidebar-menu-example) - Create an animated sidebar menu without any external dependencies.
+- [PropertyCross Implementation](https://github.com/tastejs/PropertyCross/tree/master/nativescript) - An example app for searching UK property listings build with Angular 2 + NativeScript.
 
 #### Project Boilerplates
 
