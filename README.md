@@ -239,6 +239,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Articles
 
+- [Rob Lauer | 26-Jan-17](http://developer.telerik.com/products/nativescript/going-off-the-grid-with-nativescript/) - Going Offline with NativeScript
+- [Rob Lauer | 19-Jan-17](http://developer.telerik.com/products/nativescript/adding-unit-tests-to-your-nativescript-app/) - Adding Unit Tests to Your NativeScript App
+- [Nic Raboy | 28-Nov-16](http://developer.telerik.com/featured/working-xml-data-nativescript-angular-2/) - Working with XML Data in NativeScript Angular 2
+- [Nic Raboy | 21-Nov-16](http://developer.telerik.com/featured/working-with-restful-data-in-angular-2-and-nativescript/) - Working with RESTful Data in Angular 2 and NativeScript
+- - [Rob Lauer | 16-Nov-16](http://developer.telerik.com/products/nativescript/platform-specific-development-nativescript/) - Platform-Specific Development with NativeScript
 - [Brad Martin | 19-Jan-16](https://bradmartin.net/2016/01/19/using-the-android-palette-with-nativescript/) - Using the Android Palette with NativeScript.
 - [Brad Martin | 28-Dec-15](https://bradmartin.net/2015/12/28/use-google-cloud-messaging-for-push-notifications-with-nativescript/) - Use Google Cloud Messaging for Push Notifications with NativeScript.
 - [Sebastian Witalec | 11-Sept-15](https://www.nativescript.org/blog/adding-analytics-to-your-nativescript-app/) - Adding Analytics to Your NativeScript App.
@@ -256,6 +261,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Talks
 
+- [Burke Holland | 28-Dec-16](https://www.youtube.com/watch?v=oqrdfYnTdR8) - This Is NativeScript
+- [Burke Holland and Todd Anglin at NativeScript Developer Day | 20-Sep-16](https://www.youtube.com/watch?v=2EhflZCdPCI) - Nativescript: Past, Present and Future
+- [TJ VanToll and Jen Looper | 20-Sep-16](https://www.youtube.com/watch?v=6em3r-NJRJs&t=534s) - The Latest and Greatest in NativeScript
+- [Nathan Walker | 20-Sep-16](https://www.youtube.com/watch?v=zDvW0k6TEhA&t=1s) - Going Into Battle With NativeScript Angular: A Real World Case Study
 - [Mike Branstein at Music City Code | 19-Aug-16](https://github.com/mikebranstein/nativescript-quick-apps-mcc-code) - 6 Minute Apps: A Race Against Time.
 - [TJ VanToll at Summer of NativeScript | 08-Jul-16](https://www.youtube.com/watch?v=QzhhCGwO4f8&list=PLtuCR_3WY8D-MPKHvjMtEGGpaiX72XHk2) - Summer of NativeScript—Beyond the Basics.
 - [Julian Steiner at ngBigParty II | 30-Mar-16](https://www.youtube.com/watch?v=dVKNC1fcuG8) - Building mobile apps with Angular 2 and NativeScript.
