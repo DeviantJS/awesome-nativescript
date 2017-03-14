@@ -109,6 +109,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - Maintainer: `Burke Holland`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/burkeholland)
 - [Toast](https://github.com/TobiasHennig/nativescript-toast) - A NativeScript Toast Plugin for Android and iOS apps.
  - Maintainer: `Tobias Hennig`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/TobiasHennig) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/HennigTobias) 
+- [Checkbox](https://github.com/bradmartin/nativescript-checkbox) - Plugin to provide a native checkbox.
+ - Maintainer: `Brad Martin`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/bradmartin) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/BradWayneMartin) 
 
 **[Back to top](#table-of-contents)**
 
