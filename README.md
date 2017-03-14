@@ -142,7 +142,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - Maintainer: `Osei Fortune`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/triniwiz) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/triniwiz) 
 - [WebView Crypto](https://github.com/saulshanabrook/nativescript-webview-crypto) - Web Cryptography API using a hidden WebView.
  - Maintainer: `Saul Shanabrook`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/saulshanabrook) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/saulshanabrook) 
- 
+- [Barcode scanner](https://github.com/EddyVerbruggen/nativescript-barcodescanner) - Plugin for scanning QR codes and barcodes in several formats.  
+ - Maintainer: `Eddie Verbruggen`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/EddyVerbruggen) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/eddyverbruggen) 
 
 **[Back to top](#table-of-contents)**
 
