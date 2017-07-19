@@ -338,10 +338,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### Project Boilerplates
 
 - [Angular2 Seed Advanced](https://github.com/NathanWalker/angular2-seed-advanced) - Angular2 + NativeScript with all the bells and whistles.
+- [Plugin Seed](https://github.com/NativeScript/nativescript-plugin-seed) - Get started building NativeScript plugins quickly
+
 
 #### Books
 
 - [NativeScript in Action](https://www.manning.com/books/nativescript-in-action) - Learn how to write truly native apps with NativeScript in Action from Manning Press.
+
+
 
 **[Back to top](#table-of-contents)**
 
