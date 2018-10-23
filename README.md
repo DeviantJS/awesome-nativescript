@@ -9,7 +9,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
-### Table of Contents
+### Contents
  - [Resources](#resources)
    - [Official](#official)
    - [Community](#community)
